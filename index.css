@@ -1,0 +1,265 @@
+body{
+	font-family: Dosis;
+	background-color: #f6f6f6;
+}
+.nav a{
+
+	letter-spacing: 2px;
+}
+.nav a:hover{
+
+	letter-spacing: 5px;
+}
+.img-responsive{
+	height: 250px;
+	border-radius: 30px;
+	text-align: center;
+
+}
+h1{
+	text-align: center;
+	padding-top: 26px;
+}
+h2{
+
+	text-align: justify;
+	padding: 40px;
+	line-height: 50px;
+}
+.skills{
+
+	background-color: #f94001;
+	color: white;
+	border-radius:30px;
+	text-align: center;
+	position: relative;
+
+
+}
+h3{
+
+	text-align: center;
+	padding-top:7px;
+	letter-spacing: 3px;
+	
+}
+span{
+
+	font-size: 40px;
+	letter-spacing: 5px;
+	-webkit-text-fill-color:transparent;
+	-webkit-text-stroke-width:2px;
+
+}
+
+.skills h4{
+
+	position: relative;
+	top: 10px;
+	bottom: 10;
+	left: 0;
+	right: 0;
+	margin: auto;
+	font-size: 30px;
+
+}
+.html-logo{
+	 clip-path: circle(45%);
+	 width:20px;
+	 
+
+}
+.css-logo{
+	 clip-path: circle(45%);
+	 width:20px;
+
+}
+.js-logo{
+	 clip-path: circle(45%);
+	 width:20px;
+
+}
+.bootstrap-logo{
+	 clip-path: circle(45%);
+	 width:20px;
+}
+.skills img{
+	width: 70%;
+	top: 10px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+h5{
+
+	text-align:center;
+	font-size: 20px;
+}
+#msg-box{
+		resize:none	;
+
+}
+.loginbox input{
+
+	width: 98%;
+}
+.loginbox li input[type = "text"], li input[type = "password"]{
+
+	border: none;
+	border-bottom: 1px solid #fff;
+	background:transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 15px;
+}
+.loginbox button[type = "submit"]{
+
+	border: none;
+	outline: none;
+	height: 48px;
+	background: #525252;
+	color: #fff;
+	font-size:15px;
+	border-radius: 10px;
+
+}
+.loginbox button[type = "submit"]:hover{
+	cursor: pointer;
+	background: #f94001;
+	color: #000;
+
+}
+.signupbox input{
+
+	width: 100%;
+	height: 30px;
+	
+}
+.signuperror{
+
+	color: #ff0303;
+	font-size: 18px;
+}
+.signuperror{
+
+	color: #ff0303;
+	font-size: 18px;
+}
+.signupsuccess{
+
+	color: #10d23a;
+	font-size: 18px;
+}
+
+.project-container{
+	background-color:#fff;
+	border-radius: 20px;
+	padding: 20px;
+	position: relative;
+
+}
+.project-container div{
+	position: relative;
+	width: 370px;
+	height: 200px;
+	margin-bottom: 15px;
+	left:0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+.project-container h3{
+	text-align: center;
+	letter-spacing: 0px;
+	
+}
+.project-container p{
+	text-align: center;
+	font-size: 15px;
+	letter-spacing: 0px;	
+
+}
+.project-container a{
+	color: #000;
+
+}
+.project-upload{
+	padding-left: 35%;
+	padding-top: 20px;
+	background-color: #f6f6f6;
+}	
+.project-upload input{
+
+	color: #000;
+	display: inline-block;
+	width: 240px;
+	border: none;
+	text-align: center;
+}
+
+.project-upload button{
+	width: 240px;
+	border-radius: 0px;	
+}
+.project-upload textarea{
+	width: 240px;
+	border: none;
+	text-align: center;
+
+
+}
+.row h4{
+	text-align: center;
+
+}
+.form-group textarea{
+
+	text-align: center;
+}
+.btntask{
+	width: 350px;
+	border: none;		
+}
+.row input{
+	text-align: center;
+
+}
+.container{
+	background-color: #fff;
+}
+.container button{
+	width: 350px;
+	position: relative;
+	left: 0;
+	right: 0;
+	margin: auto;
+
+}
+.container input{
+text-align: center;
+margin-top: 20px;
+}
+.task button{
+	width: 100px<;
+}
+.box{
+
+	width: 	370px;
+
+}
+.container-fluid table{
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19);
+	left: 	0;
+	right: 	0;
+	margin: auto;
+}
+textarea{
+	text-align: center;
+	resize: none;
+}

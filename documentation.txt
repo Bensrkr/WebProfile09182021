@@ -1,0 +1,36 @@
+<meta name = "viewport" content="width=device-width, initial-scale=1
+----to fit in any device
+
+container-fluid
+---- a bootstrap function to make the flow of my design goes from left to right
+
+
+isset
+----a PHP built in function which checks whether a variable is set and is not null
+
+POST
+----it sends information via http header
+
+GET
+---- it gets the data we put and show it to the webpage
+
+mysqli_num_rows
+----it returns the number of rows from a database if its true
+
+#mysqli_fetch_assoc
+----fetches a result row as an associative array
+
+trim
+----it trims the character from the beginning and end of the string
+
+stripslashes
+----un-quotes a quoted string
+
+htmlspecialchars
+----converts the special char to html entities
+
+#mysqli_query
+----performs a query against the database
+
+#mysqli_stmt_bind_param
+---- binds variables to a prepared statement as parameters
